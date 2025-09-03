@@ -48,7 +48,7 @@
     {"name": "Dreamworks Tagalized", "url": "https://ott.m3u8.nathcreqtives.com/dreamworkstagalized/manifest.m3u8"},
     {"name": "Nickelodeon", "url": "https://ott.m3u8.nathcreqtives.com/nickelodeon/manifest.m3u8"},
     {"name": "Nick Jr", "url": "https://ott.m3u8.nathcreqtives.com/nickjunior/manifest.m3u8"},
-    {"name": "Cartoon Network", "url": "https://ott.m3u8.nathcreqtives.com/cartoonnetwork/manifest.m3u8"},
+    {"name": "Cartoon Network", "url": "https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist.m3u8"},
     {"name": "ANC HD", "url": "https://ott.m3u8.nathcreqtives.com/anchd/manifest.m3u8"},
     {"name": "GMA News TV", "url": "https://ott.m3u8.nathcreqtives.com/gmanewstv/manifest.m3u8"},
     {"name": "GMA News Live", "url": "https://ott.m3u8.nathcreqtives.com/gmanewslive/manifest.m3u8"},
